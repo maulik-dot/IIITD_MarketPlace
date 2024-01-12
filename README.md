@@ -1,3 +1,17 @@
-A marketplace platform for college students can be a great way to help students sell products and services such as old books and tutoring. This platform can help students make extra money by selling items they no longer need or offering their skills as a tutor. Additionally, the platform can make it easier for students to find and purchase items or services they need at a lower cost than they would find elsewhere. This can be particularly beneficial for students on a tight budget. Furthermore, it can also be a great way for students to connect with one another and build a sense of community within the college. This can be a great resource for both buyers and sellers, making it a win-win for all parties involved.
-Mid Fi-`"https://www.figma.com/file/vZuNYQPj0072sql8pfSCgR/HCI-PROJECT?type=design&node-id=0-1&mode=design"`
-High Fi-`"https://www.figma.com/file/6ZCcqFM1IBUpRkF4y061m2/hci-hifi?type=design&node-id=0-1&mode=design"`
+# IIITD Market Place
+
+## Overview
+
+IIITD Market Place is a dedicated online marketplace designed for college students. This platform serves as a hub for buying and selling a diverse range of products and services, catering specifically to the needs of the student community.
+
+## Key Features
+
+- **Buy and Sell:** Easily list items or services for sale, from textbooks to tutoring sessions.
+- **Affordability:** Promoting cost-effective transactions to accommodate student budgets.
+- **Community Building:** Fostering student connections for a sense of community.
+- **User-Friendly Interface:** Intuitive design for a seamless user experience.
+
+## Implementation
+
+This project is implemented as a web application featuring functionalities such as secure payment gateways, user profiles, and a feedback system. The [mid-fidelity prototype](https://www.figma.com/file/vZuNYQPj0072sql8pfSCgR/HCI-PROJECT?type=design&node-id=0-1&mode=design) provides an overview of the user flow, while the [high-fidelity design](https://www.figma.com/file/6ZCcqFM1IBUpRkF4y061m2/hci-hifi?type=design&node-id=0-1&mode=design) showcases refined visual aesthetics.
+
